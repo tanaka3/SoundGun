@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GunSound</string>
+    <string name="action_settings">Settings</string>
+    <string name="bullet_url">http://52.197.12.82/gunmusic/reloadbullet.html?u=1</string>
+</resources>
